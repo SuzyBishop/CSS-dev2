@@ -1,2 +1,2 @@
-# CSS-dev2
+# CSS-Ödev2
 Patika-CSS-Ödev2
